@@ -1,0 +1,28 @@
+.add-product{
+  float: right;
+  background-color: #0d6efc;
+  border: #000 1px solid;
+  color: #fff;
+  border-radius: 10px;
+}
+.edit-product{
+  background-color: #237a7a;
+  border: #000 1px solid;
+  color: #fff;
+  border-radius: 5px;
+  padding:0 10px;
+
+}
+.remove-product{
+  margin-left: 20px;
+  padding:0 10px;
+  background-color: #e70e0e;
+  border: #000 1px solid;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+}
+tbody tr td img{
+  width: 10vh;
+  height: 10vh;
+}
