@@ -2,8 +2,9 @@
 import './App.css';
 import {Route, Routes} from "react-router-dom";
 import LayoutAdmin from "~/layout/LayoutAdmin";
-import AllProduct from "~/conpoments/admin/All-Product";
-import AddandEditUser from "~/conpoments/admin/Modal/AddandEditUser";
+import AllProduct from "~/conpoments/admin/All-Products";
+
+
 
 function App() {
   return (
